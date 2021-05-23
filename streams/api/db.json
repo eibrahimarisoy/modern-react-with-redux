@@ -1,0 +1,56 @@
+{
+  "streams": [
+    {
+      "title": "deneme",
+      "description": "deneme desc",
+      "id": 1
+    },
+    {
+      "title": "ww",
+      "description": "ww",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "aa",
+      "description": "aa",
+      "userId": "117232413983232625836",
+      "id": 3
+    },
+    {
+      "title": "ssss",
+      "description": "sss",
+      "userId": "117232413983232625836",
+      "id": 4
+    },
+    {
+      "title": "test1",
+      "description": "test1",
+      "userId": "117232413983232625836",
+      "id": 5
+    },
+    {
+      "title": "test3---Test6",
+      "description": "test3---Test6",
+      "id": 6
+    },
+    {
+      "title": "aaa---zzzzz",
+      "description": "aaa---zzzzz",
+      "userId": "117232413983232625836",
+      "id": 7
+    },
+    {
+      "title": "zxcvbn",
+      "description": "asdf",
+      "userId": "117232413983232625836",
+      "id": 8
+    },
+    {
+      "title": "tyuıop",
+      "description": "qwer",
+      "userId": "117232413983232625836",
+      "id": 9
+    }
+  ]
+}
